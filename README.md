@@ -1,0 +1,1 @@
+Run silohost and client and press enter in the client console to see exception
